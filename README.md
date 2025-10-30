@@ -165,7 +165,15 @@ Example inference time: ~10-30 seconds for a 1-minute audio clip (depending on h
 - **Flask**: Lightweight web framework.
 - **NumPy**: Efficient signal processing.
 
-*(No specific contributors listed—add your team here!)*
+## 👨‍💻 Contributors
+
+Abhiram G
+
+Varun S
+
+Rohith Raj V
+
+Yathindra T M
 
 ---
 
